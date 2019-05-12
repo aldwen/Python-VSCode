@@ -1,1 +1,1 @@
-adfaf
+print("this is b file")
